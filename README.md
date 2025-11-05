@@ -41,3 +41,20 @@ It’s built with **HTML, CSS, and JavaScript**, and can be hosted **completely 
    then select `Deploy from a branch`.  
 4. Under **Branch**, select `main` and `/ (root)`, then click **Save**.  
 5. After a few minutes, your site will be live at:
+---
+
+## 🛠️ Customization Tips
+- Open `assets/css/style.css` to change colors, fonts, or layout.  
+- Replace the text and placeholder tiles in `portfolio.html` with your actual projects or screenshots.  
+- Edit contact details in the footer and `contact.html` if needed.  
+- You can also connect your domain name later if you have one.
+
+---
+
+## 💬 Contact
+- **Email:** [donaldkipkorir266@gmail.com](mailto:donaldkipkorir266@gmail.com)  
+- **WhatsApp:** [0705305516](https://wa.me/254705305516)
+
+---
+
+**© 2025 FlashfixTech. All rights reserved.**
